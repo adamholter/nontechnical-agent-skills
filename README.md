@@ -8,7 +8,7 @@ It uses the open `SKILL.md` format supported by Claude Code, Codex, and other co
 
 - `nontechnical-copilot` keeps the agent focused on the user's outcome and plain-language updates.
 - `setup-without-confusion` handles installs, sign-in, Git, GitHub, localhost, publishing, and similar setup work.
-- `natural-writing` removes robotic AI habits and technical clutter. It uses no linting API or external service.
+- `unslop` removes robotic AI habits and technical clutter. This text-only edition uses no linting API or external service.
 
 ## Easiest installation
 
@@ -37,7 +37,7 @@ The skills can load automatically when a request matches. They can also be named
 - The agent verifies the app, page, account, or other result the user will see.
 - The setup skill checks for secrets and private data before public publishing.
 
-The writing skill shares the goal of [Unslop](https://github.com/theclaymethod/unslop): remove common AI writing habits. This bundle contains its own short rules and does not include Unslop's scanners, linting system, or API features.
+The included `unslop` skill is a small, text-only edition inspired by [Unslop](https://github.com/theclaymethod/unslop). It keeps the writing rules and leaves out scanners, linting, and API features.
 
 ## License
 
