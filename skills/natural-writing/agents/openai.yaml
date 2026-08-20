@@ -1,4 +1,0 @@
-interface:
-  display_name: "Natural Writing"
-  short_description: "Write plainly without robotic AI habits"
-  default_prompt: "Use $natural-writing to rewrite this in clear, natural language."

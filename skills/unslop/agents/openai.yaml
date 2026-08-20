@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unslop"
+  short_description: "Cut AI tells and write like a person"
+  default_prompt: "Use $unslop to rewrite this in clear, natural language."
