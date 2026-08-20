@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nontechnical Copilot"
+  short_description: "Help without jargon or setup confusion"
+  default_prompt: "Use $nontechnical-copilot to handle this task and explain only what I need to know."

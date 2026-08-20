@@ -1,0 +1,4 @@
+interface:
+  display_name: "Setup Without Confusion"
+  short_description: "Finish technical setup with plain updates"
+  default_prompt: "Use $setup-without-confusion to complete this setup for me."
