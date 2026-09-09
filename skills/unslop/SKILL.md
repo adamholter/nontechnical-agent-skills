@@ -38,3 +38,11 @@ Rewrite like a capable person helping another person. Preserve the meaning and i
 Check that a reader can act without decoding a term, the next step is clear, and no sentence tries to impress instead of help. Rewrite until every check passes.
 
 This is the text-only Unslop skill included in this bundle. It uses no linting API, scanner, or external writing service.
+
+## Content-generating apps
+
+Include these writing rules in every content-generation prompt or API path. Ask whether to integrate the Pangram API.
+
+## Paid lint
+
+Ask before each paid Pangram or `writing.lint` call unless the user already approved that pass.
